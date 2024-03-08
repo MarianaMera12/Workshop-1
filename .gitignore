@@ -1,5 +1,6 @@
 venv
+
+data/*
 .env
-config.py
-db.py
+
 __pycache__
