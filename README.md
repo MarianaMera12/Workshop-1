@@ -103,28 +103,19 @@ pip install -r requirements.txt
 8. We made the connection with Power BI to graph the transformed data.
 
  - Open a new window in Power BI
- [![Datos.png](https://i.postimg.cc/fRFZQdzD/Datos.png)](https://postimg.cc/RWc2cNJD)
-
+   [![Datos.png](https://i.postimg.cc/fRFZQdzD/Datos.png)](https://postimg.cc/RWc2cNJD)
 
  - Select in 'more'
-
- [![datas2.png](https://i.postimg.cc/JzdJwpH0/datas2.png)](https://postimg.cc/w1L3LcVY)
-
+   [![datas2.png](https://i.postimg.cc/JzdJwpH0/datas2.png)](https://postimg.cc/w1L3LcVY)
  
  - Select PostgreSQL database
+   [![datos3.png](https://i.postimg.cc/sfNRhSWS/datos3.png)](https://postimg.cc/K4BVX1Jv)
 
- [![datos3.png](https://i.postimg.cc/sfNRhSWS/datos3.png)](https://postimg.cc/K4BVX1Jv)
-
- 
  - Insert your information and accept
+   [![datos4.png](https://i.postimg.cc/j2G9kH6F/datos4.png)](https://postimg.cc/T5JCKW4V)
 
- [![datos4.png](https://i.postimg.cc/j2G9kH6F/datos4.png)](https://postimg.cc/T5JCKW4V)
-
- 
  - Select the table and download the information
-
-   
-[![datosfinally.png](https://i.postimg.cc/6QcQJ3m0/datosfinally.png)](https://postimg.cc/d77FGqvk)
+   [![datosfinally.png](https://i.postimg.cc/6QcQJ3m0/datosfinally.png)](https://postimg.cc/d77FGqvk)
 
 Already the data is synchronized with Power BI and you can make your own dashboard.
 
